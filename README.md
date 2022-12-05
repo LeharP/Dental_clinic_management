@@ -1,7 +1,7 @@
 # Dental Clinic Management system
 
 
-This repo contails all the details regarding the Dental Clinic Management system made using sql and steamlit.
+This repo contails all the details regarding the Dental Clinic Management system made using mysql and steamlit .
 Using sql we have demonstrated diffrent types of JOIN statement, Aggregate Function, SET Functions.
 We have also used Trigger, Proceduer, Cursor and Customised Functions in the operations.sql file.
 
